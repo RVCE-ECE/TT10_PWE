@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "Pulse Width Encoder"      # Project title
-  author:       "Chandan N,Gurudatt B M,Akshay Pattar,Amogh Y N,Revanna J T, Shylashree N, RV College of Engineering"      # Your name
+  author:       "Chandan N,Gurudatt B M,Akshay Pattar,Amogh Y N,Revanna J T, Shylashree N, RV College of Engineering, Bengaluru"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Design of Pulse Width Encoder"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
